@@ -1,4 +1,4 @@
-![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+![General Assembly Logo](i.imgur.com/ke8USTq.png)
 
 # Express Weather App
 
